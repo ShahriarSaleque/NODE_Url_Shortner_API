@@ -5,6 +5,6 @@ An API that generates short URL's using Node Express and MongoDB
 # Post request to 
 api/url/shorten
 #send JSON data as follows
-# {
+ {
  longUrl: 'place long url here'
 }
